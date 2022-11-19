@@ -1,2 +1,2 @@
 # Giorgi-Acharadze-Davaleba-6
-Animmations 6
+Animations 6
